@@ -128,7 +128,7 @@ npm install
 
 Create a `.env` file in the backend directory:
 ```env
-MONGO_URI=mongodb://localhost:27017/job-portal
+MONGO_URI="Mongo URL"
 # Or use MongoDB Atlas:
 # MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/job-portal
 
