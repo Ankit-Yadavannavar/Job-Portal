@@ -303,7 +303,7 @@ Create `.env` files in both `backend` and `frontend` directories:
 **Backend `.env`:**
 ```env
 # Database
-MONGO_URI=mongodb://localhost:27017/job-portal
+MONGO_URI="Mongo URL"
 
 # Server
 PORT=5000
